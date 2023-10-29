@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/link_sp/static/css/main.b6ff1770.css",
+    "main.js": "/link_sp/static/js/main.a36c675c.js",
+    "static/js/787.bc7d429a.chunk.js": "/link_sp/static/js/787.bc7d429a.chunk.js",
+    "static/media/farmvideo.mp4": "/link_sp/static/media/farmvideo.31c3cfcc34eaf350c463.mp4",
+    "static/media/contact.jpg": "/link_sp/static/media/contact.1c47de6664e69d72f7e2.jpg",
+    "static/media/bg.jpg": "/link_sp/static/media/bg.efb036f28698ac113dd5.jpg",
+    "static/media/front.jpg": "/link_sp/static/media/front.c5a90480ad0cfb1e89a8.jpg",
+    "static/media/area1.jpg": "/link_sp/static/media/area1.2b0a67c5f191c3648b67.jpg",
+    "static/media/wellpath.jpg": "/link_sp/static/media/wellpath.2022dc3264e1eee3b7e4.jpg",
+    "static/media/inp.png": "/link_sp/static/media/inp.806a54f345641192cfcd.png",
+    "static/media/website.png": "/link_sp/static/media/website.4905c5e4c677959a5712.png",
+    "static/media/div.jpg": "/link_sp/static/media/div.529cecce4943a868c7d2.jpg",
+    "static/media/google.jpg": "/link_sp/static/media/google.202602c6b6de7400607c.jpg",
+    "static/media/osm.jpg": "/link_sp/static/media/osm.a89a05cb16b340914203.jpg",
+    "index.html": "/link_sp/index.html",
+    "main.b6ff1770.css.map": "/link_sp/static/css/main.b6ff1770.css.map",
+    "main.a36c675c.js.map": "/link_sp/static/js/main.a36c675c.js.map",
+    "787.bc7d429a.chunk.js.map": "/link_sp/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6ff1770.css",
+    "static/js/main.a36c675c.js"
+  ]
+}
